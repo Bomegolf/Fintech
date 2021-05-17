@@ -74,7 +74,9 @@ FY’21: Expect ongoing momentum with strong TPV growth and NNAs
 • ~$5.9 billion in Operating Cash Flow and ~$5.0 billion in Free Cash Flow
 • Added 72.7 million NNAs
 
-![Papal] (image.jpg)
+![PayPal_metrics](PayPal_metrics.jpg)
+
+
 
 
 
